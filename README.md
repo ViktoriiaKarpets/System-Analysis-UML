@@ -23,20 +23,20 @@ This repository demonstrates my skills suitable for the following roles:
 * [cite_start]*Why this is important for QA:* These tables define **Pre-conditions**, **Post-conditions**, and **Expected Results**, which are essential for creating manual test cases[cite: 26, 28].
 
 ### 2. System Architecture (UML Diagrams)
-* [cite_start]**Use Case Diagram:** Maps out all user and administrator interactions[cite: 85].
-![Use Case Diagram](./Diagram przypadków użycia .png)
+* [cite_start]**Use Case Diagram:** Maps out all user and administrator interactions.
+![Use Case Diagram](./Diagram%20przypadków%20użycia.png)
 
-* [cite_start]**Class Diagram:** Shows the integrated database structure and object relationships[cite: 86].
-![Class Diagram](./Diagram klas .png)
+* [cite_start]**Class Diagram:** Shows the integrated database structure and object relationships.
+![Class Diagram](./Diagram%20klas.png)
 
-* [cite_start]**Sequence Diagram:** Visualizes the step-by-step logic of system interactions[cite: 88].
-![Sequence Diagram](./Diagram sekwencji 1 .png)
+* [cite_start]**Sequence Diagram:** Visualizes the step-by-step logic of system interactions.
+![Sequence Diagram](./Diagram%20sekwencji%201.png)
 
-* [cite_start]**Activity Diagram:** Shows the flow of business processes like registration or ordering[cite: 87].
-![Activity Diagram](./Diagram Aktywności .png)
+* [cite_start]**Activity Diagram:** Shows the flow of business processes like registration or ordering.
+![Activity Diagram](./Diagram%20Aktywności.png)
 
-* [cite_start]**Deployment Diagram:** Illustrates the hardware and software execution environment[cite: 94].
-![Deployment Diagram](./Diagram wdrożenia.png)
+* [cite_start]**Deployment Diagram:** Illustrates the hardware and software execution environment.
+![Deployment Diagram](./Diagram%20wdrożenia.png)
 
 ---
 ## 📄 Full Documentation
