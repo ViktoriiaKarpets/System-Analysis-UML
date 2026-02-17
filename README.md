@@ -33,7 +33,7 @@ The project includes detailed requirement tables for features like Registration,
 ![Sequence Diagram](./Diagram%20sekwencji%201.png)
 
 * **Activity Diagram:** Shows the flow of business processes like registration or ordering.
-![Activity Diagram](./Diagram%20Aktywności%201.png)
+![Activity Diagram](./Diagram%20aktywności%201.png)
 
 * **Deployment Diagram:** Illustrates the hardware and software execution environment.
 ![Deployment Diagram](./Diagram%20wdrożenia.png)
